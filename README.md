@@ -1,6 +1,6 @@
+![Passionate Web Developer](https://pbs.twimg.com/profile_images/1792240900644724736/7x3rUgYB_400x400.jpg)
 ### Hi there 👋, This is Samiha
 #### Passionate Web Developer
-![Passionate Web Developer](https://pbs.twimg.com/profile_images/1792240900644724736/7x3rUgYB_400x400.jpg)
 
 
 Skills: REACT / JS / HTML / CSS / Redux / Next / Js
