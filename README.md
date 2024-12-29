@@ -10,8 +10,6 @@ Skills: REACT / JS / HTML / CSS / Redux / Next / Js
 - 📫 How to reach me: khadizasamiha7@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KhadizaSamiha)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=KhadizaSamiha)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhadizaSamiha)](https://github.com/anuraghazra/github-readme-stats)
