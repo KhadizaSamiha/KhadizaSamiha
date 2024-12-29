@@ -3,8 +3,6 @@
 ![Passionate Web Developer](https://pbs.twimg.com/profile_images/1792240900644724736/7x3rUgYB_400x400.jpg)
 
 
-Skills: REACT / JS / HTML / CSS / Redux / Next / Js
-
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: khadizasamiha7@gmail.com 
