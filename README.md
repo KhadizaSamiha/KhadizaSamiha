@@ -6,7 +6,6 @@
 
 
 
-Skills: REACT / JS / HTML / CSS / Redux / Next / Js
 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about Web Development 
