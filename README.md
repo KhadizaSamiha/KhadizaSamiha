@@ -1,6 +1,12 @@
 ![Passionate Web Developer](https://pbs.twimg.com/profile_images/1792240900644724736/7x3rUgYB_400x400.jpg)
-### Hi there 👋, This is Samiha
-#### Passionate Web Developer
+<div align="center">
+  <h1>👋 Hi, I'm [Your Name]</h1>
+  <p>Welcome to my GitHub profile!</p>
+  <img src="https://via.placeholder.com/150" alt="Profile Banner" width="300">
+  <h3>🌟 My Projects</h3>
+  <p>Check out my work below!</p>
+</div>
+
 
 
 Skills: REACT / JS / HTML / CSS / Redux / Next / Js
