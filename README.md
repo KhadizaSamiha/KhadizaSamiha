@@ -1,4 +1,4 @@
-<div>![Passionate Web Developer](https://pbs.twimg.com/profile_images/1792240900644724736/7x3rUgYB_400x400.jpg)</div>
+![Passionate Web Developer](https://pbs.twimg.com/profile_images/1792240900644724736/7x3rUgYB_400x400.jpg)
 <div align="center">
   <h1>Hi👋, This is Samiha</h1>
  <p><strong>Passionate Web Developer</strong></p>
