@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning <strong>Redux</strong> 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: khadizasamiha7@gmail.com 
 
