@@ -10,8 +10,16 @@
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: khadizasamiha7@gmail.com 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadizaSamiha&hide_progress=true&theme=dark" width="450" height="200"
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KhadizaSamiha&show_icons=true&count_private=true&theme=dark" width="450" height="200"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadizaSamiha&hide_progress=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KhadizaSamiha&show_icons=true&count_private=true&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhadizaSamiha&theme=dark)
