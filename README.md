@@ -11,7 +11,7 @@
 - 📫 How to reach me: khadizasamiha7@gmail.com 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhadizaSamiha&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhadizaSamiha&hide_progress=true&theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadizaSamiha&show_icons=true&count_private=true&theme=dark) 
 
